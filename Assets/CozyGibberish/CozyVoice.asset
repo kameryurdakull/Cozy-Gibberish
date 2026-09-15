@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e3a68437b8f62d41a80e03b09d4180d, type: 3}
+  m_Name: CozyVoice
+  m_EditorClassIdentifier: CozyGibberish.Runtime::CozyGibberish.GibberishVoiceProfile
+  _schemaVersion: 2
+  _stableId: 
+  _waveform: 1
+  _basePitch: 185
+  _pitchVariationSemitones:
+    _minimum: -2.5
+    _maximum: 2.5
+  _warmth: 0.78
+  _brightness: 0.3
+  _breathiness: 0.08
+  _charactersPerSyllable: 3.2
+  _syllableDuration:
+    _minimum: 0.105
+    _maximum: 0.185
+  _syllableGap: 0.018
+  _wordPause: 0.055
+  _sentencePause: 0.28
+  _timingVariation: 0.12
+  _attack: 0.018
+  _release: 0.055
+  _consonantStrength: 0.16
+  _vibratoRate: 4.2
+  _vibratoDepthSemitones: 0.16
+  _phraseCadence: 0.36
+  _volume: 0.72
+  _sampleRate: 48000
+  _oversampling: 2
+  _maximumSyllables: 128
+  _vowels:
+  - _id: 0
+    _weight: 1.1
+    _firstFormant: 700
+    _secondFormant: 1220
+    _thirdFormant: 2600
+  - _id: 1
+    _weight: 0.9
+    _firstFormant: 530
+    _secondFormant: 1840
+    _thirdFormant: 2480
+  - _id: 2
+    _weight: 0.75
+    _firstFormant: 300
+    _secondFormant: 2300
+    _thirdFormant: 3000
+  - _id: 3
+    _weight: 1
+    _firstFormant: 500
+    _secondFormant: 900
+    _thirdFormant: 2450
+  - _id: 4
+    _weight: 0.85
+    _firstFormant: 350
+    _secondFormant: 800
+    _thirdFormant: 2200

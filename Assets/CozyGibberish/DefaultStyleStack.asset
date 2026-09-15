@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc15e34dbfa2cf446a9fcfc2a3d44cc9, type: 3}
+  m_Name: DefaultStyleStack
+  m_EditorClassIdentifier: CozyGibberish.Runtime::CozyGibberish.GibberishStyleStack
+  _layers:
+  - _preset: {fileID: 11400000, guid: e470a525e66b88c428a8d791c0bcb294, type: 2}
+    _weight: 0
+  - _preset: {fileID: 11400000, guid: f5e842a4d2638114c91dc156a36270a6, type: 2}
+    _weight: 0
+  - _preset: {fileID: 11400000, guid: 023ac61e3e95a55438269be7a703d83c, type: 2}
+    _weight: 0
+  - _preset: {fileID: 11400000, guid: c9fa513b3810fa544bf363ced756095c, type: 2}
+    _weight: 0
