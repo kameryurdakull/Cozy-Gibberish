@@ -1,0 +1,72 @@
+{
+  "name": "com.kamer.cozygibberish",
+  "version": "2.0.0",
+  "displayName": "Cozy Gibberish",
+  "description": "Production procedural gibberish voice system with phonotactics, prosody, hybrid synthesis, DSP-scheduled playback, streaming, caching, Voice Lab and optional framework integrations.",
+  "unity": "2022.3",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kameryurdakull/Cozy-Gibberish.git"
+  },
+  "documentationUrl": "https://github.com/kameryurdakull/Cozy-Gibberish#readme",
+  "changelogUrl": "https://github.com/kameryurdakull/Cozy-Gibberish/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/kameryurdakull/Cozy-Gibberish/blob/main/LICENSE.md",
+  "author": {
+    "name": "Kamer"
+  },
+  "keywords": [
+    "audio",
+    "dialogue",
+    "gibberish",
+    "procedural",
+    "voice"
+  ],
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "Minimal runtime API example.",
+      "path": "Samples~/BasicUsage"
+    },
+    {
+      "displayName": "UniTask Integration",
+      "description": "Background rendering and cancellation with UniTask.",
+      "path": "Samples~/UniTaskIntegration"
+    },
+    {
+      "displayName": "VContainer Integration",
+      "description": "Composition root and dependency registration example.",
+      "path": "Samples~/VContainerIntegration"
+    },
+    {
+      "displayName": "DOTween Integration",
+      "description": "Event-driven talk animation example.",
+      "path": "Samples~/DOTweenIntegration"
+    },
+    {
+      "displayName": "TMP Integration",
+      "description": "DSP-synchronized rich-text typewriter.",
+      "path": "Samples~/TMPIntegration"
+    },
+    {
+      "displayName": "Dialogue Integration",
+      "description": "Yarn, Ink and Unity Localization bridges.",
+      "path": "Samples~/DialogueIntegration"
+    },
+    {
+      "displayName": "Timeline Integration",
+      "description": "Timeline track and speech clips.",
+      "path": "Samples~/TimelineIntegration"
+    },
+    {
+      "displayName": "Addressables Integration",
+      "description": "Addressable voice and style loading.",
+      "path": "Samples~/AddressablesIntegration"
+    },
+    {
+      "displayName": "Burst Integration",
+      "description": "Optional NativeArray, Jobs and Burst backend.",
+      "path": "Samples~/BurstIntegration"
+    }
+  ]
+}

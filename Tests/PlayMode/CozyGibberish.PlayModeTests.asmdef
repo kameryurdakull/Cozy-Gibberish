@@ -1,0 +1,19 @@
+{
+  "name": "CozyGibberish.PlayModeTests",
+  "rootNamespace": "CozyGibberish.Tests",
+  "references": [
+    "CozyGibberish.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "noEngineReferences": false
+}
